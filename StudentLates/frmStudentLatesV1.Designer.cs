@@ -106,7 +106,7 @@
             // 
             // btnAddNewLate
             // 
-            this.btnAddNewLate.Location = new System.Drawing.Point(129, 157);
+            this.btnAddNewLate.Location = new System.Drawing.Point(129, 154);
             this.btnAddNewLate.Name = "btnAddNewLate";
             this.btnAddNewLate.Size = new System.Drawing.Size(71, 24);
             this.btnAddNewLate.TabIndex = 9;
